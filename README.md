@@ -1,10 +1,12 @@
 # Movie Reviews
-Reto Back End de creación de una API Rest con Spring Boot para un almacén para realizar pagos en línea, para aplicar a los semilleros de Back End Developer para la empresa Accenture.
+Movie 
 
-# Comenzando
-Pre-requisitos:
-Para ejecutar este proyecto necesitas:
-- Java 8 JVM - jdk1.8.0_281
+# Starting
+Pre-requisites:
+To run this project you need to have the following dependencies:
+- Java jdk - (I recommend OpenJdk 17 or above)
+- Node js v16
+Also you can run this 
 
 # Construido con
 Este proyecto utiliza las siguientes librerías
